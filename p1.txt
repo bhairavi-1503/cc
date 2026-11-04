@@ -1,2 +1,6 @@
 bye
+<<<<<<< HEAD
 hii
+=======
+welcome
+>>>>>>> featurebranch
